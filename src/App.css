@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap');
+body {
+  font-family: 'Arimo', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  font-family: 'Arimo', sans-serif;
+}
+.centerEverything{
+  justify-content: center;
+  align-items: center;
+  height: "100%";
+  width: "100%";
+}
